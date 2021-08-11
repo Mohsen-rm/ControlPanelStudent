@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">لوحة التحكم تطبيق الطالب</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="action_save">Save</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+
+    <array name="muhafazat">
+        <item>بغداد</item>
+        <item>أربيل</item>
+        <item>الأنبار</item>
+        <item>بابل</item>
+        <item>البصرة</item>
+        <item>دهوك</item>
+        <item>القادسية</item>
+        <item>ديالى</item>
+        <item>ذي قار</item>
+        <item>السليمانية</item>
+        <item>صلاح الدين</item>
+        <item>كركوك</item>
+        <item>كربلاء</item>
+        <item>المثنى</item>
+        <item>ميسان</item>
+        <item>النجف</item>
+        <item>نينوى</item>
+        <item>واسط</item>
+    </array>
+
+    <array name="classs">
+        <item>الصف السادس الابتدأئي</item>
+        <item>الصف الثالث متوسط</item>
+        <item>الصف السادس أحيائي</item>
+        <item>الصف السادس تطبيقي</item>
+        <item>الصف السادس أدبي</item>
+    </array>
+
+    <array name="spinneradverb">
+        <item>تم النشر</item>
+        <item>في الانتظار</item>
+        <item>غير منشور</item>
+    </array>
+
+</resources>
